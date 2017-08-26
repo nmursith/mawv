@@ -1,0 +1,19 @@
+{
+  "name": "vision",
+  "version": "1.0.0",
+  "description": "Marks Visualizer",
+  "main": "index.js",
+  "dependencies": {
+    "exceljs": "^0.5.1",
+    "express": "^4.15.4",
+    "hashtable": "^2.0.2",
+    "highcharts": "^5.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "Nifras",
+  "license": "ISC"
+}

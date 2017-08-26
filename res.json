@@ -1,0 +1,674 @@
+{
+  "G17": {
+    "name": "FATHIMA NIHARAsadas",
+    "id": "G17",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      30,
+      "AB"
+    ],
+    "chemistry": [
+      30,
+      "AB"
+    ],
+    "physics": [
+      30,
+      "AB"
+    ]
+  },
+  "G16": {
+    "name": "FATHIMA MADEEHA",
+    "id": "G16",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      19,
+      "AB"
+    ],
+    "chemistry": [
+      19,
+      "AB"
+    ],
+    "physics": [
+      19,
+      "AB"
+    ]
+  },
+  "G14": {
+    "name": "FATHIMA RIZWANA",
+    "id": "G14",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      25,
+      44
+    ],
+    "chemistry": [
+      25,
+      44
+    ],
+    "physics": [
+      25,
+      44
+    ]
+  },
+  "B16": {
+    "name": {
+      "richText": [
+        {
+          "font": {
+            "size": 14,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Calibri",
+            "family": 2,
+            "charset": 1
+          },
+          "text": "A."
+        },
+        {
+          "font": {
+            "size": 7,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Times New Roman",
+            "family": 1,
+            "charset": 1
+          },
+          "text": "    "
+        },
+        {
+          "font": {
+            "size": 14,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Calibri",
+            "family": 2,
+            "charset": 1
+          },
+          "text": "AASHIF ALI"
+        }
+      ]
+    },
+    "id": "B16",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      "-",
+      "AB"
+    ],
+    "chemistry": [
+      "-",
+      "AB"
+    ],
+    "physics": [
+      "-",
+      "AB"
+    ]
+  },
+  "B15": {
+    "name": "AS. RIFTHAS",
+    "id": "B15",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      "-",
+      "AB"
+    ],
+    "chemistry": [
+      "-",
+      "AB"
+    ],
+    "physics": [
+      "-",
+      "AB"
+    ]
+  },
+  "B7": {
+    "name": "MSM. MASHARIQE",
+    "id": "B7",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      56,
+      44
+    ],
+    "chemistry": [
+      25,
+      44
+    ],
+    "physics": [
+      25,
+      44
+    ]
+  },
+  "G12": {
+    "name": "FATHIMA KULNAS",
+    "id": "G12",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      26,
+      "AB"
+    ],
+    "chemistry": [
+      26,
+      "AB"
+    ],
+    "physics": [
+      26,
+      "AB"
+    ]
+  },
+  "B5": {
+    "name": "MAM. ANSAF",
+    "id": "B5",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      56,
+      28
+    ],
+    "chemistry": [
+      20,
+      28
+    ],
+    "physics": [
+      20,
+      28
+    ]
+  },
+  "B1": {
+    "name": "IMI. IFAS",
+    "id": "B1",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      55,
+      63
+    ],
+    "chemistry": [
+      55,
+      63
+    ],
+    "physics": [
+      55,
+      63
+    ]
+  },
+  "B11": {
+    "name": "JGM. SAROJ KHAN",
+    "id": "B11",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      19,
+      "AB"
+    ],
+    "chemistry": [
+      19,
+      "AB"
+    ],
+    "physics": [
+      19,
+      "AB"
+    ]
+  },
+  "G2": {
+    "name": "ASA. HAATHOON",
+    "id": "G2",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      34,
+      42
+    ],
+    "chemistry": [
+      22,
+      42
+    ],
+    "physics": [
+      22,
+      42
+    ]
+  },
+  "B2": {
+    "name": "JM. SHAZEEN",
+    "id": "B2",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      65,
+      72
+    ],
+    "chemistry": [
+      46,
+      72
+    ],
+    "physics": [
+      46,
+      72
+    ]
+  },
+  "B8": {
+    "name": "A. ARKAM",
+    "id": "B8",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      43,
+      23
+    ],
+    "chemistry": [
+      26,
+      23
+    ],
+    "physics": [
+      26,
+      23
+    ]
+  },
+  "B14": {
+    "name": "MNM. NAFLY",
+    "id": "B14",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      "-",
+      "AB"
+    ],
+    "chemistry": [
+      "-",
+      "AB"
+    ],
+    "physics": [
+      "-",
+      "AB"
+    ]
+  },
+  "B6": {
+    "name": "HKM. JAMSITH",
+    "id": "B6",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      28,
+      28
+    ],
+    "chemistry": [
+      28,
+      28
+    ],
+    "physics": [
+      28,
+      28
+    ]
+  },
+  "G10": {
+    "name": "FATHIMA SAFNA",
+    "id": "G10",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      44,
+      "??"
+    ],
+    "chemistry": [
+      44,
+      "??"
+    ],
+    "physics": [
+      44,
+      "??"
+    ]
+  },
+  "B4": {
+    "name": "AM. FATHIR",
+    "id": "B4",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      56,
+      47
+    ],
+    "chemistry": [
+      33,
+      47
+    ],
+    "physics": [
+      33,
+      47
+    ]
+  },
+  "G7": {
+    "name": "K. SAHRATH SASNI",
+    "id": "G7",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      28,
+      31
+    ],
+    "chemistry": [
+      28,
+      31
+    ],
+    "physics": [
+      28,
+      31
+    ]
+  },
+  "B3": {
+    "name": "MSM. ISHAM",
+    "id": "B3",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      56,
+      27
+    ],
+    "chemistry": [
+      18,
+      27
+    ],
+    "physics": [
+      18,
+      27
+    ]
+  },
+  "G1": {
+    "name": {
+      "richText": [
+        {
+          "font": {
+            "size": 14,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Calibri",
+            "family": 2,
+            "charset": 1
+          },
+          "text": "A."
+        },
+        {
+          "font": {
+            "size": 7,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Times New Roman",
+            "family": 1,
+            "charset": 1
+          },
+          "text": "  "
+        },
+        {
+          "font": {
+            "size": 14,
+            "color": {
+              "argb": "FF000000"
+            },
+            "name": "Calibri",
+            "family": 2,
+            "charset": 1
+          },
+          "text": "ASRA"
+        }
+      ]
+    },
+    "id": "G1",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      29,
+      36
+    ],
+    "chemistry": [
+      29,
+      36
+    ],
+    "physics": [
+      29,
+      36
+    ]
+  },
+  "G6": {
+    "name": "MN. NUFLA",
+    "id": "G6",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      43,
+      37
+    ],
+    "chemistry": [
+      43,
+      37
+    ],
+    "physics": [
+      43,
+      37
+    ]
+  },
+  "G3": {
+    "name": "MGH. AQEELA",
+    "id": "G3",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      34,
+      62
+    ],
+    "chemistry": [
+      39,
+      62
+    ],
+    "physics": [
+      39,
+      62
+    ]
+  },
+  "G4": {
+    "name": "ISSATH NUSKHA",
+    "id": "G4",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      5,
+      35
+    ],
+    "chemistry": [
+      13,
+      35
+    ],
+    "physics": [
+      13,
+      35
+    ]
+  },
+  "B13": {
+    "name": "M. MUSKIR",
+    "id": "B13",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      "-",
+      "AB"
+    ],
+    "chemistry": [
+      "-",
+      "AB"
+    ],
+    "physics": [
+      "-",
+      "AB"
+    ]
+  },
+  "G5": {
+    "name": "MINNATH HAZEEMA",
+    "id": "G5",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      32,
+      35
+    ],
+    "chemistry": [
+      32,
+      35
+    ],
+    "physics": [
+      32,
+      35
+    ]
+  },
+  "B10": {
+    "name": "M. ILHAM",
+    "id": "B10",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      "AB",
+      35
+    ],
+    "chemistry": [
+      "AB",
+      35
+    ],
+    "physics": [
+      "AB",
+      35
+    ]
+  },
+  "G11": {
+    "name": "FATHIMA HANI",
+    "id": "G11",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      27,
+      32
+    ],
+    "chemistry": [
+      27,
+      32
+    ],
+    "physics": [
+      27,
+      32
+    ]
+  },
+  "G8": {
+    "name": "J. RIZNA",
+    "id": "G8",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      21,
+      24
+    ],
+    "chemistry": [
+      21,
+      24
+    ],
+    "physics": [
+      21,
+      24
+    ]
+  },
+  "G13": {
+    "name": "FATHIMA IMNA",
+    "id": "G13",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      23,
+      32
+    ],
+    "chemistry": [
+      23,
+      32
+    ],
+    "physics": [
+      23,
+      32
+    ]
+  },
+  "G9": {
+    "name": "AF. MIFRA FAHEEMA",
+    "id": "G9",
+    "attendace": 5,
+    "total": 8,
+    "maths": [
+      26,
+      12
+    ],
+    "chemistry": [
+      26,
+      12
+    ],
+    "physics": [
+      26,
+      12
+    ]
+  },
+  "B9": {
+    "name": "M. HAFEEL",
+    "id": "B9",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      23,
+      "AB"
+    ],
+    "chemistry": [
+      23,
+      "AB"
+    ],
+    "physics": [
+      23,
+      "AB"
+    ]
+  },
+  "G15": {
+    "name": "FATHIMA HAZBAH",
+    "id": "G15",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      27,
+      33
+    ],
+    "chemistry": [
+      27,
+      33
+    ],
+    "physics": [
+      27,
+      33
+    ]
+  },
+  "B12": {
+    "name": "MI. RUSAITH",
+    "id": "B12",
+    "attendace": 5,
+    "total": 8,
+    "bio": [
+      "-",
+      "AB"
+    ],
+    "chemistry": [
+      "-",
+      "AB"
+    ],
+    "physics": [
+      "-",
+      "AB"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+var Excel = require('exceljs');
+
+
+
+
+var express = require('express');
+var app = express();
+
+app.get('/', function (req, res) {
+
+  var workbook = new Excel.Workbook();
+
+  workbook.xlsx.readFile("physics.xlsx").then(function () {
+
+  	//Get sheet by Name
+  var worksheet=workbook.getWorksheet('Sheet1');
+
+  //Get Lastrow
+  // var row = worksheet.lastRow
+  //
+  // //Update a cell
+  // row.commit();
+
+  //Save the workbook
+  return workbook.xlsx.writeFile("physics.xlsx");
+
+  });
+
+  res.send("Hello world");
+})
+
+app.post('/', function (req, res) {
+
+})
+
+var server = app.listen(8081, function () {
+   var host = server.address().address
+   var port = server.address().port
+
+   console.log("app listening at http://%s:%s", host, port)
+})

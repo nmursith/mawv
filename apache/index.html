@@ -1,0 +1,75 @@
+
+<html>
+<title>Exam Results</title>
+<head>
+
+  <style>
+
+  body {
+      margin: 0;
+      padding: 0;
+      background-color: #FAFAFA;
+      font: 12pt "Tahoma";
+  }
+  * {
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+  }
+  .page {
+      width: 29.7cm;
+      min-height: 21.0cm;
+      padding: 2cm;
+      margin: 1cm auto;
+      border: 1px #D3D3D3 solid;
+      border-radius: 5px;
+      background: white;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  .subpage {
+      padding: 0.5cm;
+      border: 5px red solid;
+      height: 256mm;
+      outline: 2cm #FFEAEA solid;
+  }
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  @media print {
+    html, body {
+      width: 297mm;
+      height: 210mm;
+    }
+    /* ... the rest of the rules ... */
+  }
+
+  </style>
+
+</head>
+
+
+<!-- <script src="js/exceljs/dist/exceljs.min.js"></script> -->
+<body class="book">
+
+<div class="page">
+  <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+  <div id="container1" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+</div>
+
+
+<script src="js/highcharts.js"></script>
+<script src="js/exporting.js"></script>
+<script src="js/highcharts-3d.js"></script>
+<script src="js/graph.js"></script>
+
+
+
+</body>
+
+
+
+
+</html>
